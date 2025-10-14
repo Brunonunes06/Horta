@@ -13,6 +13,12 @@ h1.hotbar {
     text-align: center;
 }
 
+header {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .bbh-sans-bartle-regular {
   font-family: "BBH Sans Bartle", sans-serif;
   font-weight: 400;
